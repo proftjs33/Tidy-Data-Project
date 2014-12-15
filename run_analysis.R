@@ -1,8 +1,8 @@
 ##############################################################
 # script for part 1 of the 'Getting and Cleaning Data' project
 ##############################################################
-# set the working directory to the dataset directory
-setwd("~/GitHub/Tidy-Data-Project")
+# set the working directory to the master directory
+#setwd("~/GitHub/Tidy-Data-Project")
 
 #### COMMON LABELS AND FEATURES #########################
 # read the activity labels, this gives a 6x2 table linking the 
